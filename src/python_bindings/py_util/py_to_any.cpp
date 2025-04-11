@@ -9,7 +9,7 @@
 
 #include "algorithms/algebraic_constraints/bin_operation_enum.h"
 #include "algorithms/cfd/enums.h"
-#include "algorithms/cind/condition_type.hpp"
+#include "algorithms/cind/condition_type.h"
 #include "algorithms/md/hymd/enums.h"
 #include "algorithms/md/hymd/hymd.h"
 #include "algorithms/metric/enums.h"
